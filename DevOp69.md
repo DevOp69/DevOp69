@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevOp69
+- 👀 I’m interested in Discord bots
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on Discord bot
+- 📫 How to reach me (soon)
